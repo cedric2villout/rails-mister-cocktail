@@ -11,6 +11,12 @@ gem 'rails-controller-testing', group: [ :test ]
 # Gemfile
 ruby '2.3.3'
 
+# Gemfile
+gem 'bootstrap-sass'
+gem 'font-awesome-sass'
+gem 'simple_form'
+gem 'autoprefixer-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.3'
 # Use postgresql as the database for Active Record
